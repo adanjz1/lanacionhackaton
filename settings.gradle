@@ -1,2 +1,2 @@
-include ':facebookSDK', ':_Clublanacion'
-include ':_Relock'
+include ':_Clublanacion'
+

@@ -75,21 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LockHeadView.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LockHeadView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61358315" vertical-offset="3218" max-vertical-offset="8265">
+            <state vertical-scroll-proportion="-10.076923" vertical-offset="3218" max-vertical-offset="8265">
               <caret line="315" column="29" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clubln.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_Clublanacion/clubln.iml">
+      <file leaf-file-name="settings.gradle" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
-              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="453">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -200,14 +200,6 @@
               <ExternalProjectPojo>
                 <option name="name" value="clublanacion" />
                 <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":facebookSDK" />
-                <option name="path" value="$PROJECT_DIR$/facebookSDK" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":_Relock" />
-                <option name="path" value="$PROJECT_DIR$/_Relock" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":_Clublanacion" />
@@ -673,7 +665,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4286107232000" />
+        <entry key="$PROJECT_DIR$" value="4286166931000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1129,7 +1121,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/RegistrationClick.java" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/AboutActivity.java" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/BuyItemActivity.java" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/FAQsActivity.java" />
@@ -1180,6 +1171,7 @@
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/res/layout/lockscreen.xml" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/res/layout/lockscreen_slider.xml" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
       </list>
     </option>
   </component>
@@ -2317,7 +2309,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29402262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29402262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2349,14 +2341,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/res/drawable/config_background.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/global/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="765">
@@ -2735,8 +2719,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61358315" vertical-offset="3218" max-vertical-offset="8265">
+        <state vertical-scroll-proportion="-10.076923" vertical-offset="3218" max-vertical-offset="8265">
           <caret line="315" column="29" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="428">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>

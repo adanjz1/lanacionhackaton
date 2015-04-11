@@ -9,8 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/_Clublanacion" />
-            <option value="$PROJECT_DIR$/_Relock" />
-            <option value="$PROJECT_DIR$/facebookSDK" />
           </set>
         </option>
       </GradleProjectSettings>

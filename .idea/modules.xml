@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_Clublanacion/_Clublanacion.iml" filepath="$PROJECT_DIR$/_Clublanacion/_Clublanacion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_Relock/_Relock.iml" filepath="$PROJECT_DIR$/_Relock/_Relock.iml" />
       <module fileurl="file://$PROJECT_DIR$/clublanacion.iml" filepath="$PROJECT_DIR$/clublanacion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
     </modules>
   </component>
 </project>

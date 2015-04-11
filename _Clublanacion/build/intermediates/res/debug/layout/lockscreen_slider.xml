@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE RelativeLayout>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lockscreen_rl_slider"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="40dp"
+    android:layout_gravity="bottom"
+    android:gravity="bottom">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:layout_below="@+id/relative"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="197dp">
+
+        <ImageView
+            android:id="@+id/lockscreen_imv_center_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/ic_lockscreen_center_bg"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp" />
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/relative"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+        <ImageView
+            android:id="@+id/lockscreen_imv_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="3.5dp"
+            android:padding="10dp"
+            android:scaleType="centerInside" />
+
+        <ImageView
+            android:id="@+id/lockscreen_imv_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="3.5dp"
+            android:padding="10dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_lockscreen_unlock" />
+
+        <ImageView
+            android:id="@+id/lockscreen_imv_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/ic_lockscreen_center"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp" />
+    </RelativeLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout><!-- From: file:/Library/WebServer/Documents/clublanacion/_Clublanacion/src/main/res/layout/lockscreen_slider.xml -->

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE FrameLayout>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lockscreen_rl_slider_main_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_marginBottom="0dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+
+    <com.clublanacion.view.AnimationView
+        android:id="@+id/lockscreen_imv_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/loading_icon_bg"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/lockscreen_imv_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scaleType="centerCrop"
+        android:src="@drawable/offline_1" />
+    <TextView
+        android:id="@+id/html_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingLeft="0dp"
+        android:textColor="#ffffffff"
+        android:textSize="20sp"
+        android:layout_gravity="top"
+        />
+    <include layout="@layout/lockscreen_slider" />
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/lockscreen_rl_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right|top"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+
+        <DigitalClock
+            android:id="@+id/lockscreen_dcl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="5dp"
+            android:shadowColor="#000000"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="2.0"
+            android:textColor="@color/White"
+            android:textSize="40sp"
+            android:typeface="monospace"
+            android:layout_alignParentEnd="false"
+            android:gravity="right"
+            android:layout_marginRight="10dp" />
+
+
+    </RelativeLayout>
+
+</FrameLayout><!-- From: file:/Library/WebServer/Documents/clublanacion/_Clublanacion/src/main/res/layout/lockscreen.xml -->

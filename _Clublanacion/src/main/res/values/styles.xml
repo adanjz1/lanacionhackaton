@@ -1,0 +1,185 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="hor_gray_devider">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/Gray</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+
+    <style name="hor_black_devider">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/Black</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+
+    <style name="ver_gray_devider">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/Gray</item>
+        <item name="android:layout_width">1dp</item>
+    </style>
+
+    <style name="hor_yeloow_devider">
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">@color/MenuBar_Yellow</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+
+    <style name="very_large_gray_text_title">
+        <item name="android:textColor">@color/Dark_Gray</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="very_large_black_text_title">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="very_large_white_text_title">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="large_gray_text_title">
+        <item name="android:textColor">@color/Dark_Gray</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="large_black_text_title">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="large_white_text_title">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="gray_text_title">
+        <item name="android:textColor">@color/Dark_Gray</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="black_text_title">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="white_text_title">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="white_large_text_title_menu">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="gray_text_title_menu">
+        <item name="android:textColor">@color/Black_Light</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="small_gray_text_title">
+        <item name="android:textColor">@color/Dark_Gray</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">9sp</item>
+    </style>
+
+    <style name="small_black_text_title">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">9sp</item>
+    </style>
+
+    <style name="small_white_text_title">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">9sp</item>
+    </style>
+
+    <style name="very_small_gray_text_title">
+        <item name="android:textColor">@color/Dark_Gray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">7sp</item>
+    </style>
+
+    <style name="very_small_black_text_title">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">7sp</item>
+    </style>
+
+    <style name="very_small_white_text_title">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">7sp</item>
+    </style>
+
+    <style name="edt_hint_style">
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColorHint">@color/Gray</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

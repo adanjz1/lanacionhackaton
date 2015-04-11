@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Pink_Light">#e16b77</color>
+    <color name="Pink">#ee7584</color>
+    <color name="Gray">#e8e8e8</color>
+    <color name="Yellow">#ffffe1</color>
+    <color name="Black_Light">#8d8d8d</color>
+    <color name="Dark_Gray">#676767</color>
+    <color name="Blur_Gray">#55555555</color>
+    <color name="Black">#000000</color>
+    <color name="White">#ffffff</color>
+    <color name="Background">#fbfbfa</color>
+    <color name="Light_Blue">#70b5eb</color>
+    <color name="Light_Orange">#ff677e</color>
+    <color name="Light_Purple">#d1a5d8</color>
+    <color name="Blue">#6f85f8</color>
+    <color name="Green">#32af00</color>
+    <color name="Light_Green">#80fde0</color>
+    <color name="Orange">#f26522</color>
+    <color name="Red">#FF0000</color>
+    <color name="MenuBar_Yellow">#ffde00</color>
+    <color name="pin_selected">#00000000</color>
+    <color name="pin_release">#55555555</color>
+
+</resources>

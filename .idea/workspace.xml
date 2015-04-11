@@ -75,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LockHeadView.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LockHeadView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2095" max-vertical-offset="8265">
-              <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.61358315" vertical-offset="3218" max-vertical-offset="8265">
+              <caret line="315" column="29" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -155,7 +155,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lockscreen_slider.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="lockscreen_slider.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/res/layout/lockscreen_slider.xml">
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="744" max-vertical-offset="1185">
@@ -1177,9 +1177,9 @@
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/util/JSONParser.java" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/BlockTouchView.java" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/service/BlockTouchScreenService.java" />
-        <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/res/layout/lockscreen.xml" />
         <option value="$PROJECT_DIR$/_Clublanacion/src/main/res/layout/lockscreen_slider.xml" />
+        <option value="$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java" />
       </list>
     </option>
   </component>
@@ -2295,7 +2295,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="717" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2317,7 +2317,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29402262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29402262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2706,14 +2706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2095" max-vertical-offset="8265">
-          <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/res/layout/lockscreen.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="1140">
@@ -2739,6 +2731,14 @@
       </provider>
       <provider selected="true" editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_Clublanacion/src/main/java/com/clublanacion/view/lockheadview/LockHeadView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61358315" vertical-offset="3218" max-vertical-offset="8265">
+          <caret line="315" column="29" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
